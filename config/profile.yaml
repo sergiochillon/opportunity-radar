@@ -1,0 +1,80 @@
+skills:
+  - Python
+  - Java
+  - SQL
+  - REST API
+  - FastAPI
+  - Docker
+  - Linux
+  - web scraping
+  - automation
+  - CSV
+  - Excel
+  - n8n
+  - Git
+  - APIs
+
+preferred_tasks:
+  - bug fixing
+  - small scripts
+  - API integrations
+  - automation
+  - data processing
+  - scraping
+  - backend
+  - integrations
+
+avoid:
+  - frontend
+  - React
+  - Next.js
+  - Vue
+  - Angular
+  - mobile
+  - purely frontend
+  - large full-stack applications
+  - unpaid
+  - internship
+  - calls
+  - meetings
+  - local-only
+  - senior-only
+
+constraints:
+  remote_only: true
+  async_only: true
+  no_calls: true
+  no_unpaid: true
+
+budget:
+  minimum: 10.0
+  preferred_minimum: 20.0
+  preferred_maximum: 300.0
+
+scoring_weights:
+  technical_fit: 0.25
+  scope_fit: 0.20
+  budget_fit: 0.15
+  async_fit: 0.15
+  experience_fit: 0.10
+  freshness: 0.10
+  competition: 0.05
+
+score_thresholds:
+  hot: 80
+  good: 65
+  low: 50
+
+freshness:
+  max_age_hours: 48
+  decay_tiers:
+    - max_age_hours: 2
+      score: 100
+    - max_age_hours: 6
+      score: 85
+    - max_age_hours: 12
+      score: 70
+    - max_age_hours: 24
+      score: 50
+    - max_age_hours: 48
+      score: 20

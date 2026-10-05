@@ -1,0 +1,23 @@
+services:
+  opportunity-radar:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        USER_UID: ${USER_UID:-1000}
+        USER_GID: ${USER_GID:-1000}
+    container_name: opportunity-radar
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - ENVIRONMENT=production
+      - LOG_LEVEL=INFO
+      - DATABASE_PATH=data/radar.db
+      - PROFILE_PATH=config/profile.yaml
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config/profile.yaml:/app/config/profile.yaml:ro
+    security_opt:
+      - no-new-privileges:true

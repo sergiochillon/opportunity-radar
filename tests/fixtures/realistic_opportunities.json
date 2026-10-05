@@ -1,0 +1,90 @@
+[
+  {
+    "id": "e2e_case_1",
+    "title": "[Hiring] Need Python developer to fix small FastAPI endpoint bug",
+    "selftext": "Budget $50. Quick task to fix a 500 internal server error in authentication route. Async via chat.",
+    "permalink": "/r/forhire/comments/e2e_1/fastapi_bug/",
+    "author": "client_fastapi",
+    "created_utc": 1728115200,
+    "link_flair_text": "Hiring",
+    "num_comments": 1,
+    "subreddit": "forhire"
+  },
+  {
+    "id": "e2e_case_2",
+    "title": "[Hiring] React / Next.js frontend developer needed",
+    "selftext": "Build landing page with Tailwind and Figma. Frontend only.",
+    "permalink": "/r/forhire/comments/e2e_2/react_frontend/",
+    "author": "client_react",
+    "created_utc": 1728115200,
+    "link_flair_text": "Hiring",
+    "num_comments": 3,
+    "subreddit": "forhire"
+  },
+  {
+    "id": "e2e_case_3",
+    "title": "[Hiring] Senior Django Architect - 8+ years experience - US Only",
+    "selftext": "Must be located in US. 10 years experience required.",
+    "permalink": "/r/forhire/comments/e2e_3/senior_django/",
+    "author": "client_senior",
+    "created_utc": 1728115200,
+    "link_flair_text": "Hiring",
+    "num_comments": 0,
+    "subreddit": "forhire"
+  },
+  {
+    "id": "e2e_case_4",
+    "title": "[Hiring] Unpaid internship for Python enthusiasts",
+    "selftext": "Unpaid role. Great learning opportunity and equity.",
+    "permalink": "/r/forhire/comments/e2e_4/unpaid_intern/",
+    "author": "client_unpaid",
+    "created_utc": 1728115200,
+    "link_flair_text": "Hiring",
+    "num_comments": 0,
+    "subreddit": "forhire"
+  },
+  {
+    "id": "e2e_case_5",
+    "title": "[Hiring] Python developer for small backend task - daily zoom calls mandatory",
+    "selftext": "Budget $60. Must attend daily standup video calls at 9am.",
+    "permalink": "/r/forhire/comments/e2e_5/daily_meetings/",
+    "author": "client_meetings",
+    "created_utc": 1728115200,
+    "link_flair_text": "Hiring",
+    "num_comments": 2,
+    "subreddit": "forhire"
+  },
+  {
+    "id": "e2e_case_6",
+    "title": "[TASK] Python automation script to merge CSV reports [PAID]",
+    "selftext": "Budget $50 flat. Clean script to merge 5 spreadsheets into SQLite database. Async only.",
+    "permalink": "/r/slavelabour/comments/e2e_6/csv_merge/",
+    "author": "client_csv",
+    "created_utc": 1728115200,
+    "link_flair_text": "TASK",
+    "num_comments": 1,
+    "subreddit": "slavelabour"
+  },
+  {
+    "id": "e2e_case_7",
+    "title": "[Hiring] Build entire SaaS platform with Next.js, Kubernetes, AI, Stripe",
+    "selftext": "Huge production platform from scratch. Multi-tenant architecture.",
+    "permalink": "/r/forhire/comments/e2e_7/huge_saas/",
+    "author": "client_saas",
+    "created_utc": 1728115200,
+    "link_flair_text": "Hiring",
+    "num_comments": 5,
+    "subreddit": "forhire"
+  },
+  {
+    "id": "e2e_case_8",
+    "title": "[Hiring] Need Python script to extract tables from PDF",
+    "selftext": "Budget $40. Quick script.",
+    "permalink": "/r/forhire/comments/e2e_8/pdf_extract/",
+    "author": "client_pdf",
+    "created_utc": 1728000000,
+    "link_flair_text": "Hiring",
+    "num_comments": 1,
+    "subreddit": "forhire"
+  }
+]
